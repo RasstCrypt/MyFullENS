@@ -10,7 +10,7 @@ import polygonLogo from "./assets/polygonlogo.png";
 const tld = ".Crypt";
 const TWITTER_HANDLE = "DindaCrypt";
 const TWITTER_LINK = `https://twitter.com/AreYouWinningg`;
-const CONTRACT_ADDRESS = "0x90d017163c658F0a59d2e8a1c7053Ab4c61b1711";
+const CONTRACT_ADDRESS = "0x62A53e84B740d2f69DCF17f0CEb3cc3c2977D886";
 
 const App = () => {
     const [mints, setMints] = useState([]);
